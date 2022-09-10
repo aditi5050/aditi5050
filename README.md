@@ -1,6 +1,7 @@
 <h1 align="center">Hey there👋, I'm Aditi Goyal</h1>
 
 <img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/723262.gif">
+
 - 👩🏻‍💻 I’m a Full-Stack Developer
 
 - 🔭 I’m currently trying my hands on **GCP & competitive coding**
