@@ -1,5 +1,6 @@
 <h1 align="center">Hey there👋, I'm Aditi Goyal</h1>
-- 👩🏻‍💻 I’m a **Full-Stack Developer**
+
+- 👩🏻‍💻 I’m a Full-Stack Developer
 
 - 🔭 I’m currently trying my hands on **GCP & competitive coding**
 
@@ -7,7 +8,7 @@
 
 - ⚡ Fun fact about me it has been **years since I last watched a movie**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Lets Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditi-goyal-23a3a2235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi-goyal-23a3a2235" height="30" width="40" /></a>
 <a href="https://instagram.com/_aditi__goyal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aditi__goyal__" height="30" width="40" /></a>
