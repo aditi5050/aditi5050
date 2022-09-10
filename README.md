@@ -8,7 +8,7 @@
 
 - 📫 You can reach me out via 📧 **aditigoyalprg21@gmail.com**
 
-- ⚡ Fun fact about me it has been **years since I last watched a movie**
+- ⚡ Fun fact about me it has been **years since I last watched a  movie**
 
 <h3 align="left">Lets Connect:</h3>
 <p align="left">
