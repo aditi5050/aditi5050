@@ -1,5 +1,6 @@
 <h1 align="center">Hey there👋, I'm Aditi Goyal</h1>
 
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1d4M94k2obmJI2D7LuC6fBCI52lnN1Uma/view?usp=sharing">
 - 👩🏻‍💻 I’m a Full-Stack Developer
 
 - 🔭 I’m currently trying my hands on **GCP & competitive coding**
