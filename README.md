@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently trying my hands on **GCP & competitive coding**
 
-- 📫 You can connect with me via 📧 **aditigoyalprg21@gmail.com**
+- 📫 You can reach me out via 📧 **aditigoyalprg21@gmail.com**
 
 - ⚡ Fun fact about me it has been **years since I last watched a movie**
 
