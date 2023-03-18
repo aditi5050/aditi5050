@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 I’m a Full-Stack Developer
 
-- 🔭 I’m currently trying my hands on **Machine Learning & competitive coding**
+- 🔭 I’m currently trying my hands on **GCP & competitive coding**
 
 - 📫 You can reach me out via 📧 **aditigoyalprg21@gmail.com**
 
