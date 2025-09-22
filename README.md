@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 I’m a Full-Stack Developer
 
-- 🔭 I’m currently trying my hands on **Kubernetes & CP**
+- 🔭 I’m currently trying my hands on **Kubernetes, Blockchain & CP**
 
 - 📫 You can reach me out via 📧 **aditigoyalprg21@gmail.com**
 
