@@ -4,11 +4,11 @@
 
 - 👩🏻‍💻 I’m a Full-Stack Developer
 
-- 🔭 I’m currently trying my hands on **Machine Learning & CP**
+- 🔭 I’m currently trying my hands on **Kubernetes & CP**
 
 - 📫 You can reach me out via 📧 **aditigoyalprg21@gmail.com**
 
-- ⚡ Fun fact **TThe only thing I enjoy more than dancing is having those deep, productive convos with society’s so-called nerds.**
+- ⚡ Fun fact **The only thing I enjoy more than dancing is having those deep, productive convos with society’s so-called nerds.**
 
 <h3 align="left">Lets Connect:</h3>
 <p align="left">
