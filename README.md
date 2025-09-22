@@ -8,7 +8,7 @@
 
 - 📫 You can reach me out via 📧 **aditigoyalprg21@gmail.com**
 
-- ⚡ Fun fact about me it has been **years since I last watched a  movie**
+- ⚡ Fun fact **TThe only thing I enjoy more than dancing is having those deep, productive convos with society’s so-called nerds.**
 
 <h3 align="left">Lets Connect:</h3>
 <p align="left">
