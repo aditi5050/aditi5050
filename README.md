@@ -8,7 +8,7 @@
 
 - 📫 You can reach me out via 📧 **aditigoyalprg21@gmail.com**
 
-- ⚡ Fun fact **The only thing I enjoy more than dancing is having those deep, productive convos with society’s so-called nerds.**
+- ⚡ Fun fact ** Fun fact: I still wanna be an astronaut, since space has a stronger pull on me than debugging ever will**
 
 <h3 align="left">Lets Connect:</h3>
 <p align="left">
