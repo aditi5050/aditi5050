@@ -10,7 +10,7 @@
 
 - I’m more the kind of person who’d love to build AI that feels human, rather than spend hours debating whether it can replace humans :)
 
-- ⚡  **Fun fact: I still wanna be an astronaut, since space has a stronger pull on me than debugging ever will**
+- ⚡  Fun fact: I still wanna be an astronaut, since space has a stronger pull on me than debugging ever will
 
 <h3 align="left">Lets Connect:</h3>
 <p align="left">
