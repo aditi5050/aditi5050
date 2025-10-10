@@ -7,8 +7,8 @@
 - 🔭 I’m currently trying my hands on **Kubernetes, Blockchain & CP**
 
 - 📫 You can reach me out via 📧 **aditigoyalprg21@gmail.com**
-- 
--I’m more the kind of person who’d love to build AI that feels human, rather than spend hours debating whether it can replace humans :)
+
+- I’m more the kind of person who’d love to build AI that feels human, rather than spend hours debating whether it can replace humans :)
 
 - ⚡  **Fun fact: I still wanna be an astronaut, since space has a stronger pull on me than debugging ever will**
 
