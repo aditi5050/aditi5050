@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/723262.gif">
 
-- 👩🏻‍💻 I’m a Full-Stack Developer
+- 👩🏻‍💻 I’m a Full-Stack Dev — drop an idea, and I’ll have it up before you finish your coffee 
 
 - 🔭 I’m currently trying my hands on **Kubernetes, Blockchain & CP**
 
