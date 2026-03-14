@@ -1,6 +1,5 @@
 <h1 align="center">Hiii there👋, Aditi this side :)</h1>
 
-<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/723262.gif">
 
 - 👩🏻‍💻 I’m a Full-Stack Dev — drop an idea, and I’ll have it up before you finish your coffee
 
