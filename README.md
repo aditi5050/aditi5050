@@ -270,7 +270,7 @@ public:
 │  ♫  NOW PLAYING                         │
 │                                         │
 │  Track   :  Mastermind                  │
-│  Album   :  Midnights                   │
+│  Album   :  Midnights(To See DayLight)  │
 │  Artist  :  Taylor Swift                │
 │                                         │
 │  Mood    :  Building Something Cool ✨  │
@@ -294,44 +294,6 @@ public:
 > — Tony Stark ⚡
 
 ---
-
-## 🌌 MIDNIGHT ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditi5050&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi5050&theme=midnight-purple&hide_border=true"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aditi5050&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-
-## 🌌 CONNECT WITH ME
-
-<div align="center">
-
-<a href="mailto:aditigoyalprg21@gmail.com">
-<img src="https://img.shields.io/badge/Email-Lavender_Haze-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/aditi-aditi-goyal">
-<img src="https://img.shields.io/badge/LinkedIn-Midnight_Blue-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/aditi5050">
-<img src="https://img.shields.io/badge/GitHub-Stark_Industries-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=aditi5050&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 ---
 
