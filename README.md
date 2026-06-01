@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Aditi%20Goyal&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=✨%20In%20My%20Software%20Engineer%20Era%20✨&descAlignY=65&descSize=22"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=26&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=900&lines=Mastermind+by+Taylor+Swift.+%F0%9F%8E%A4;Engineer+by+Tony+Stark.+%E2%9A%A1;CodeChef+5%E2%98%85+%7C+Codeforces+Specialist.;1000%2B+DSA+Problems+Solved.;Building+AI-Powered+Products.;Shipping+at+2AM+%F0%9F%8C%99+because+why+not." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=26&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=900&lines=Mastermind+by+Taylor+Swift.+%F0%9F%8E%A4;Rizz+by+Tony+Stark.+%E2%9A%A1;CodeChef+5%E2%98%85+%7C+Codeforces+Specialist.;1000%2B+DSA+Problems+Solved.;Building+AI-Powered+Products.;Shipping+at+2AM+%F0%9F%8C%99+because+why+not." alt="Typing SVG" />
 
 <br/>
 
@@ -40,9 +40,7 @@
 ```typescript
 const aditi: SoftwareEngineer = {
   role        : "Software Engineer",
-  education   : "Thapar Institute of Engineering & Technology, 2026",
-  location    : "India 🇮🇳",
-
+  
   achievements: [
     "CodeChef 5★  — Global ranks 179th, 258th, 541st (45K+ participants)",
     "Codeforces Specialist — Top 49th, 179th (40K+ competitors)",
@@ -160,12 +158,6 @@ const aditi: SoftwareEngineer = {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-
-```
-🎮 PokeAPI integration with scalable RESTful services
-🎮 Firebase Auth + Cloud Functions + Strapi CMS
-🎮 TypeScript + SCSS + full community features
-```
 
 </details>
 
