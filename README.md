@@ -35,33 +35,6 @@
 
 ---
 
-## 💎 ABOUT ME
-
-```typescript
-const aditi: SoftwareEngineer = {
-  role        : "Software Engineer",
-  
-  achievements: [
-    "CodeChef 5★  — Global ranks 179th, 258th, 541st (45K+ participants)",
-    "Codeforces Specialist — Top 49th, 179th (40K+ competitors)",
-    "1000+ DSA Problems Solved across LeetCode, CF, CodeChef",
-    "Smart India Hackathon 2023 Finalist 🏆",
-    "Google Cloud Ready Facilitator ☁️",
-  ],
-
-  currentlyBuilding: [
-    "AI Workflow Platforms  →  Namah AI",
-    "Real-time Market Intelligence  →  InvestSafe",
-    "Full Stack Applications with Distributed Systems",
-  ],
-
-  funFact: "I debug better while listening to Taylor Swift.",
-  lifeStatus: "while (alive) { learn(); build(); ship(); repeat(); }",
-};
-```
-
----
-
 ## 🎤 MY ENGINEERING ERAS
 
 <div align="center">
