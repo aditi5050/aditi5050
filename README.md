@@ -95,73 +95,9 @@ const aditi: SoftwareEngineer = {
 | ⚔️✨⚔️✨⚔️ | **Codeforces Specialist** | Ranks 49th · 179th among 40K+ |
 | 🧩🦋🧩🦋🧩 | **1000+ DSA Problems** | LeetCode · Codeforces · CodeChef |
 | 🚀💜🚀💜🚀 | **3× SWE Intern** | Difference Digital · Exam Lounge · Igniad |
-| ☁️✨☁️✨☁️ | **Google Cloud Ready** | Cloud Facilitator Program |
 | 🏆🌙🏆🌙🏆 | **SIH'23 Finalist** | Smart India Hackathon 2023 |
 
 </div>
-
----
-
-## ⚡ STARK INDUSTRIES PROJECT DIVISION
-
-<details open>
-<summary><b>🤖 NAMAH AI — Visual AI Workflow Builder</b> &nbsp;<a href="https://github.com/aditi5050"><img src="https://img.shields.io/badge/LIVE-00C853?style=flat-square"/></a> <a href="https://github.com/aditi5050"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/></a></summary>
-<br/>
-
-> *Infinite canvas. Drag. Connect. Automate. Ship.*
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![React Flow](https://img.shields.io/badge/React_Flow-FF0072?style=flat-square&logo=react&logoColor=white)
-![Trigger.dev](https://img.shields.io/badge/Trigger.dev-6D28D9?style=flat-square)
-
-```
-✨ Infinite canvas with draggable, connectable DAG nodes
-✨ 6 custom node types with strict TypeScript + DAG validation
-✨ GSAP animations + real-time sync
-✨ Multimodal LLM pipelines
-```
-
-</details>
-
-<details>
-<summary><b>📈 INVESTSAFE — AI-Powered Market Intelligence</b> &nbsp;<a href="https://github.com/aditi5050"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/></a></summary>
-<br/>
-
-> *Live market data. NLP-powered news. Automated alerts. Zero latency.*
-
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FinBERT](https://img.shields.io/badge/FinBERT-NLP-orange?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-```
-⚡ Distributed microservices via Kafka + Zookeeper
-⚡ FinBERT + BART NLP pipeline for ticker-based news summarization
-⚡ BeautifulSoup scraper for live market shift analysis
-⚡ WebSockets → Next.js UI with live TradingView integration
-```
-
-</details>
-
-<details>
-<summary><b>🎮 POKEFAM — Full Stack Pokémon Community</b> &nbsp;<a href="https://github.com/aditi5050"><img src="https://img.shields.io/badge/LIVE-00C853?style=flat-square"/></a> <a href="https://github.com/aditi5050"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/></a></summary>
-<br/>
-
-> *Because every engineer needs a Pokémon side project.*
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-
-</details>
-
----
 
 ## 💼 WORK EXPERIENCE
 
