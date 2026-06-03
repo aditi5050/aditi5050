@@ -135,41 +135,28 @@ const aditi: SoftwareEngineer = {
 
 ---
 
-## 🤖 J.A.R.V.I.S TECH CORE
+## 🤖 TECH CORE
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts&perline=5"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,nodejs,express,docker&perline=10"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,kafka,aws,git,tensorflow,opencv&perline=10"/>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,figma,vscode,linux,prisma,github,jupyter&perline=10"/>
 
 <br/>
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&perline=4"/>
-
-<br/>
-
-**Backend & Infrastructure**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,docker,kafka&perline=4"/>
-
-<br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase&perline=4"/>
-
-<br/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,prisma&perline=3"/>
+![](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/NLP-7C3AED?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Microservices-10B981?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/CI%2FCD-EC4899?style=flat-square&logo=githubactions&logoColor=white)
+![](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![](https://img.shields.io/badge/Machine_Learning-8B5CF6?style=flat-square&logoColor=white)
 
 </div>
-
----
 
 ## 🌠 DEVELOPER DNA
 
