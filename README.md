@@ -157,23 +157,6 @@ public:
     }
 };
 ```
-
----
-
-## ✨ MIDNIGHT THOUGHTS
-
-> *"What if I told you I'm a mastermind?"*
->
-> — Taylor Swift 💜
-
-<br/>
-
-> *"Sometimes you gotta run before you can walk."*
->
-> — Tony Stark ⚡
-
----
-
 ---
 
 <div align="center">
