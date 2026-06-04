@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Aditi%20Goyal&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=✨%20In%20My%20Software%20Engineer%20Era%20✨&descAlignY=65&descSize=22"/>
 
@@ -19,14 +19,15 @@
 
 ```yaml
 ╔══════════════════════════════════════════════════════╗
-║              J.A.R.V.I.S  v2026.13                  ║
+║              J.A.R.V.I.S (Taylor's Versio)           ║
 ╠══════════════════════════════════════════════════════╣
 ║  USER          :  Aditi Goyal                        ║
 ║  STATUS        :  🟢 Online                          ║
 ║  CURRENT ERA   :  💜 Software Engineer Era           ║
 ╠══════════════════════════════════════════════════════╣
-║  POWER SOURCE  :  Taylor Swift 🎤 + Coffee ☕        ║
-║                   Curiosity ✨ + Deadlines 🚀        ║
+║  POWER SOURCE  :  Taylor Swift 🎤 + Caffine ☕         ║
+║                   Curiosity ✨ + Deadlines 🚀         ║
+                   & All to well (10 min Version)      ║
 ╠══════════════════════════════════════════════════════╣
 ║  OBJECTIVE     :  Build things that matter.          ║
 ║  MISSION       :  Transform ideas into products.     ║
@@ -41,9 +42,9 @@
 
 | Era | Vibe | Unlocked |
 |-----|------|---------|
-| 💛 **Fearless** | First lines of code | Discovered CP · Realized sleep is optional |
+| 💛 **Fearless** | First lines of code | Discovered HTML · Realized sleep is optional |
 | ❤️ **Red** | Algorithm obsession | DSA daily grind · CP addiction unlocked |
-| 🖤 **Reputation** | Leveling up | CodeChef 5★ · Codeforces Specialist · 1K+ problems |
+| 🖤 **Reputation** | Leveling up | CodeChef 5★ · Codeforces Specialist · 1M+ active users(production ready codes) |
 | 💜 **Midnights** | Building at 2AM | Kafka · Redis · AI Systems · Full Stack · Ship everything |
 
 </div>
@@ -52,8 +53,8 @@
 + Current status: MIDNIGHTS ERA 💜
 + Building AI-powered products
 + Distributed systems with Kafka & Redis
-+ Shipping features at 2AM because that's when the magic happens
-- Sleep schedule: nonexistent
++ Shipping features at 2AM because that's when the magic happens (So in luv that I act insane)
+- Sleep schedule: nonexistent and it feels we are never ever ever getting back Together
 ```
 
 ---
@@ -159,24 +160,6 @@ public:
 
 ---
 
-## 🎵 CURRENTLY PLAYING
-
-```
-┌─────────────────────────────────────────┐
-│  ♫  NOW PLAYING                         │
-│                                         │
-│  Track   :  Mastermind                  │
-│  Album   :  Midnights(To See DayLight)  │
-│  Artist  :  Taylor Swift                │
-│                                         │
-│  Mood    :  Building Something Cool ✨  │
-│  Status  :  In My Software Engineer Era │
-│  Volume  :  ████████████████░░  MAX     │
-└─────────────────────────────────────────┘
-```
-
----
-
 ## ✨ MIDNIGHT THOUGHTS
 
 > *"What if I told you I'm a mastermind?"*
@@ -197,9 +180,9 @@ public:
 
 ### 💜✨ IN MY SOFTWARE ENGINEER ERA ✨💜
 
-*⚡ Powered by Stark Industries · 🌙 Running on Midnights · 🎤 Written by a Mastermind*
+*⚡ Powered by DAD ( Daddy's Lill girl forever) · 🌙 Running on Midnights · 🎤 Written by a Her*
 
-*🚀 Building the future, one commit at a time.*
+* Building the future, one commit at a time.*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=12,20,24,30"/>
 
