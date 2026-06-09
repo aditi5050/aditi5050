@@ -25,9 +25,9 @@
 ║  STATUS        :  🟢 Online                          ║
 ║  CURRENT ERA   :  💜 Software Engineer Era           ║
 ╠══════════════════════════════════════════════════════╣
-║  POWER SOURCE  :  Taylor Swift 🎤 + Caffine ☕         ║
+║  POWER SOURCE  :  Taylor Swift 🎤 + Caffine ☕        ║
 ║                   Curiosity ✨ + Deadlines 🚀         ║
-                   & All to well (10 min Version)      ║
+║                   & All to well (10 min Version)     ║
 ╠══════════════════════════════════════════════════════╣
 ║  OBJECTIVE     :  Build things that matter.          ║
 ║  MISSION       :  Transform ideas into products.     ║
