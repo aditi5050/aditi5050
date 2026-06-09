@@ -165,7 +165,7 @@ public:
 
 *⚡ Powered by DAD ( Daddy's Lill girl forever) · 🌙 Running on Midnights · 🎤 Written by a Her*
 
-* Building the future, one commit at a time.*
+* Building the future, one commit at a time. *
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=12,20,24,30"/>
 
