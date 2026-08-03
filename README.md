@@ -15,27 +15,6 @@
 
 ---
 
-## 🌙 MIDNIGHTS CONTROL PANEL
-
-```yaml
-╔══════════════════════════════════════════════════════╗
-║              J.A.R.V.I.S (Taylor's Versio)           ║
-╠══════════════════════════════════════════════════════╣
-║  USER          :  Aditi Goyal                        ║
-║  STATUS        :  🟢 Online                          ║
-║  CURRENT ERA   :  💜 Software Engineer Era           ║
-╠══════════════════════════════════════════════════════╣
-║  POWER SOURCE  :  Taylor Swift 🎤 + Caffine ☕        ║
-║                   Curiosity ✨ + Deadlines 🚀         ║
-║                   & All to well (10 min Version)     ║
-╠══════════════════════════════════════════════════════╣
-║  OBJECTIVE     :  Build things that matter.          ║
-║  MISSION       :  Transform ideas into products.     ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
-
 ## 🎤 MY ENGINEERING ERAS
 
 <div align="center">
@@ -163,7 +142,7 @@ public:
 
 ### 💜✨ IN MY SOFTWARE ENGINEER ERA ✨💜
 
-*⚡ Powered by DAD ( Daddy's Lill girl forever) · 🌙 Running on Midnights · 🎤 Written by a Her*
+*⚡ Powered by DAD (Daddy's Lill girl forever) · 🌙 Running on Midnights & caffeine, or maybe high cuz Claude is getting expensive 🎤 Written by a Her*
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=12,20,24,30"/>
