@@ -55,7 +55,7 @@
 ## WORK EXPERIENCE
 
 <details>
-<summary><b>🔷 Difference Digital</b> — Software Engineering Intern &nbsp;<i>Aug – Dec 2025</i></summary>
+<summary><b>💜 Difference Digital</b> — Software Engineering Intern &nbsp;<i>Aug – Dec 2025</i></summary>
 <br/>
 
 - Scraping pipelines processing **100K+ records/week** with Python & Playwright
@@ -66,7 +66,7 @@
 </details>
 
 <details>
-<summary><b>🔷 Exam Lounge</b> — Backend Engineering Intern &nbsp;<i>Jun 2022 – Feb 2023</i></summary>
+<summary><b>💜 Exam Lounge</b> — Backend Engineering Intern &nbsp;<i>Jun 2022 – Feb 2023</i></summary>
 <br/>
 
 - PHP → Node.js migration: **30% faster** page loads · **20% lower** CPU usage
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-<summary><b>🔷 Igniad</b> — Software Engineering Intern &nbsp;<i>Apr – Jun 2022</i></summary>
+<summary><b>💜 Igniad</b> — Software Engineering Intern &nbsp;<i>Apr – Jun 2022</i></summary>
 <br/>
 
 - End-to-end web app supporting **10K+ daily users**
