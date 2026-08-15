@@ -15,7 +15,7 @@
 
 ---
 
-## 🎤 MY ENGINEERING ERAS
+##  MY ENGINEERING ERAS
 
 <div align="center">
 
@@ -44,15 +44,15 @@
 
 | Bracelet | Achievement | Details |
 |----------|-------------|---------|
-| ⭐💜⭐💜⭐ | **CodeChef 5★** | Ranks 179 · 258 · 541 among 45K+ |
-| ⚔️✨⚔️✨⚔️ | **Codeforces Specialist** | Ranks 49th · 179th among 40K+ |
-| 🧩🦋🧩🦋🧩 | **1000+ DSA Problems** | LeetCode · Codeforces · CodeChef |
-| 🚀💜🚀💜🚀 | **3× SWE Intern** | Difference Digital · Exam Lounge · Igniad |
-| 🏆🌙🏆🌙🏆 | **SIH'23 Finalist** | Smart India Hackathon 2023 |
+| 💜⭐ | **CodeChef 5★** | Ranks 179 · 258 · 541 among 45K+ |
+| ✨✨ | **Codeforces Specialist** | Ranks 49th · 179th among 40K+ |
+| 🦋🦋 | **1000+ DSA Problems** | LeetCode · Codeforces · CodeChef |
+| 💜⭐ | **3× SWE Intern** | Difference Digital · Exam Lounge · Igniad |
+| 🌙🌙 | **SIH'23 Finalist** | Smart India Hackathon 2023 |
 
 </div>
 
-## 💼 WORK EXPERIENCE
+## WORK EXPERIENCE
 
 <details>
 <summary><b>🔷 Difference Digital</b> — Software Engineering Intern &nbsp;<i>Aug – Dec 2025</i></summary>
@@ -88,7 +88,7 @@
 
 ---
 
-## 🤖 TECH CORE
+##  TECH CORE
 
 <div align="center">
 
@@ -111,38 +111,13 @@
 
 </div>
 
-## 🌠 DEVELOPER DNA
 
-```cpp
-class Aditi {
-public:
-    string currentEra    = "Software Engineer Era 💜";
-    string powerSource   = "Taylor Swift + Caffeine";
-    int    problemsSolved = 1000; // and counting
-
-    void Life() {
-        while (alive) {
-            Learn();           // always
-            Build();           // obsessively
-            SolveCodeforces(); // competitively
-            ListenToSwift();   // religiously
-            ShipProducts();    // at 2AM
-            Repeat();
-        }
-    }
-
-    string getFunFact() {
-        return "I debug better with Midnights on repeat.";
-    }
-};
-```
----
 
 <div align="center">
 
 ### 💜✨ IN MY SOFTWARE ENGINEER ERA ✨💜
 
-*⚡ Powered by DAD (Daddy's Lill girl forever) · 🌙 Running on Midnights & caffeine, or maybe high cuz Claude is getting expensive 🎤 Written by a Her*
+🌙Running on Midnights & caffeine, or maybe high cuz Claude is getting expensive 🎤 Written by a Her
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=12,20,24,30"/>
