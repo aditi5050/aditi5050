@@ -117,7 +117,8 @@
 
 ### 💜✨ IN MY SOFTWARE ENGINEER ERA ✨💜
 
-🌙Running on Midnights & caffeine, or maybe high cuz Claude is getting expensive 🎤 Written by a Her
+But with you I'd dance in a storm In my best dress Fearless, Oh, oh
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=12,20,24,30"/>
